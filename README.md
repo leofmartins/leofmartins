@@ -1,37 +1,41 @@
-# Hello, World! 👋 I'm Leonardo (Leo) Martins
+# Greetings, fellow developers! 👋 I'm Leonardo (Leo) Martins
 
-I'm a passionate software developer with a diverse and enriching background. For over 11 years, I contributed extensively to the finance sector while working in a bank. My journey in software development, combined with my experience in the banking industry, has shaped my unique perspective on problem-solving and innovation. 
+I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 11 years in the banking sector and currently working in a debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for software development.
 
 ## 🧑‍💻 Software Development
 
-Throughout my journey, I've developed a profound love for transforming ideas into functional, user-friendly applications. Some key areas of expertise and interests include:
+My path in software development has been marked by a commitment to turning innovative ideas into practical, user-centric applications. My focal points include:
 
-- **Languages**: I'm proficient in JavaScript, TypeScript, Python and Java, which empowers me to tackle diverse projects.
-- **Web Development**: I specialize in creating responsive and intuitive web applications using Angular and Spring.
-- **Software Engineering**: My graduate studies have provided me with deeper insights into software architecture, design patterns, and best practices.
+- **Languages**: I'm adept in JavaScript, TypeScript, Python and Java, empowering me to tackle a wide range of projects.
+- **Web Development**: I specialize in crafting responsive and intuitive web applications using Anguar and Spring.
+- **Software Engineering**: My graduate studies have furthered my grasp of software architecture, design patterns, and industry best practices.
 
-## 🏦 Banking Experience
+## 🏢 Banking and Debt Collection Expertise
 
-My 11+ years of experience in the banking sector have provided me with a solid foundation in financial operations, customer relationship management, and effective communication. This experience significantly contributes to my holistic approach to software development:
+With more than a decade of experience in the banking sector and my current role in a debt collection company, I've gained invaluable insights into financial operations, customer relations, and effective communication:
 
-- **Financial Acumen**: My banking background enhances my ability to understand and develop solutions that cater to specific financial and business needs.
-- **Customer-Centric Approach**: I've honed my skills in creating software that prioritizes a seamless user experience, a skill cultivated from my interactions with bank clients.
-- **Problem Solving**: My tenure in the banking industry has nurtured my analytical and critical thinking abilities, which I apply to coding challenges and project management.
+- **Financial Mastery**: My time in the banking sector cultivated a deep understanding of financial processes, which greatly informs my approach to crafting software solutions tailored to business needs.
+- **User-Centric Design**: My commitment to delivering seamless user experiences is reinforced by my interactions with clients and customers in both the banking and debt collection domains.
+- **Analytical Prowess**: My extensive banking experience has sharpened my analytical and problem-solving skills, which I apply to coding challenges and project management.
 
-## 📚 Learning Path
+## 📚 Academic and Professional Journey
 
-My academic and professional journey is a blend of technical expertise and real-world experience:
+My path has been a dynamic blend of formal education and real-world experience:
 
-- **Textile Engineering**: My foundation in Textile Engineering imparts strong problem-solving skills, attention to detail, and an innovative approach to design.
-- **Information Systems**: I'm currently pursuing an undergraduate degree in Information Systems, bridging the gap between technology and business needs.
-- **Software Engineering**: Simultaneously, I'm pursuing a graduate degree in Software Engineering, enhancing my ability to create robust and scalable software solutions.
+- **Textile Engineering**: My background in Textile Engineering fuels my creative problem-solving, attention to detail, and innovative design approach.
+- **Information Systems**: Currently pursuing an undergraduate degree in Information Systems, I'm bridging the gap between technology and business demands.
+- **Software Engineering**: Simultaneously, I'm pursuing a graduate degree in Software Engineering, deepening my ability to architect robust and scalable software solutions.
 
-## 🌱 Philosophy
+## 🌱 Personal Philosophy
 
-I firmly believe that continuous learning is the key to staying relevant in the fast-evolving tech landscape. With every project I embark on, I aim to refine my skills, learn from peers, and contribute positively to the software development community.
+I firmly believe that continuous learning is the cornerstone of staying relevant in the rapidly evolving tech landscape. I approach each project as an opportunity to refine my skills, learn from peers, and contribute positively to the software development community.
 
 ## 📫 Let's Connect
 
-I'm always enthusiastic about collaboration and connecting with fellow professionals. Don't hesitate to reach out to me through my [email](mailto:leonardo.f.martins@icloud.com) ou my [Linkedin profile](https://www.linkedin.com/in/leonardofmartins/).
+I'm always enthusiastic about collaborating and connecting with fellow professionals. Feel free to reach out to me through [email](mailto:leonardo.f.martins@icloud.com) or my [Linkedin personal profile](https://www.linkedin.com/in/leonardofmartins/).
 
-Looking forward to engaging with you!
+Looking forward to connecting with you and exploring new horizons together!
+
+
+
+
