@@ -1,4 +1,4 @@
-# Greetings, fellow developers! 👋 I'm Leonardo (Leo) Martins
+# Hi, there! 👋 I'm Leonardo (Leo) Martins
 
 I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 11 years in the banking sector and currently working in a debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for software development.
 
