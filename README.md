@@ -35,5 +35,3 @@ I firmly believe that continuous learning is the key to staying relevant in the 
 I'm always enthusiastic about collaboration and connecting with fellow professionals. Don't hesitate to reach out to me through my [email](mailto:leonardo.f.martins@icloud.com) ou my [Linkedin profile](https://www.linkedin.com/in/leonardofmartins/).
 
 Looking forward to engaging with you!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofmartins)](https://github.com/anuraghazra/github-readme-stats)
