@@ -6,7 +6,7 @@
 
 # Olá, mundo! 👋 Meu nome é Leonardo (Leo) Martins
 
-Sou um desenvolvedor de software dedicado com uma rica e diversificada trajetória que abrange múltiplos setores. Tendo passado mais de 11 anos no setor bancário e atualmente trabalhando em uma empresa de cobrança de dívidas, minha jornada me equipou com uma combinação única de habilidades e perspectivas que alimentam minha paixão pelo desenvolvimento de software.
+Sou um desenvolvedor de software dedicado com uma rica e diversificada trajetória que abrange múltiplos setores. Tendo passado mais de 12 anos no setor bancário e tendo trabalhando em uma empresa de cobrança de dívidas condominiais, minha jornada me equipou com uma combinação única de habilidades e perspectivas que alimentam minha paixão pela minha nova carreira como desenvolvedor de software.
 
 ## 🧑‍💻 Desenvolvimento de Software
 
@@ -48,11 +48,11 @@ Aguardando com expectativa a conexão com você e explorar novos horizontes junt
 
 # Hello, World! 👋 I'm Leonardo (Leo) Martins
 
-I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 11 years in the banking sector and currently working in a debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for software development.
+I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 12 years in the banking sector and having worked in a condominium debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for my new career as a software developer.
 
 ## 🧑‍💻 Software Development
 
-My path in software development has been marked by a commitment to turning innovative ideas into practical, user-centric applications. My focal points include:
+My path in software development is marked by a commitment to turning innovative ideas into practical, user-centric applications. My focal points include:
 
 - **Languages**: I'm adept in JavaScript, TypeScript, Python and Java, empowering me to tackle a wide range of projects.
 - **Web Development**: I specialize in crafting responsive and intuitive web applications using Anguar and Spring.
