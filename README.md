@@ -1,8 +1,10 @@
+# Multilingual README
+
+🇺🇸 [English Version](#english-version) | 🇧🇷 [Versão em Português](#versao-em-portugues)
+
 ## Versão em Português <a name="versao-em-portugues"></a>
 
 # Olá, pessoal! 👋 Meu nome é Leonardo (Leo) Martins
-
-🇺🇸 [English Version](#english-version) | 🇧🇷 [Versão em Português](#versao-em-portugues)
 
 Sou um desenvolvedor de software dedicado com uma rica e diversificada trajetória que abrange múltiplas indústrias. Tendo passado mais de 11 anos no setor bancário e atualmente trabalhando em uma empresa de cobrança de dívidas, minha jornada me equipou com uma combinação única de habilidades e perspectivas que alimentam minha paixão pelo desenvolvimento de software.
 
@@ -42,6 +44,9 @@ Aguardando com expectativa a conexão com você e explorar novos horizontes junt
 
 
 ## English Version <a name="english-version"></a>
+
+🇺🇸 [English Version](#english-version) | 🇧🇷 [Versão em Português](#versao-em-portugues)
+
 # Hi, there! 👋 I'm Leonardo (Leo) Martins
 
 I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 11 years in the banking sector and currently working in a debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for software development.
