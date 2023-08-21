@@ -36,4 +36,4 @@ I'm always enthusiastic about collaboration and connecting with fellow professio
 
 Looking forward to engaging with you!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofmartins&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofmartins)](https://github.com/anuraghazra/github-readme-stats)
