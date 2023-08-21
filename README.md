@@ -12,25 +12,25 @@ Sou um desenvolvedor de software dedicado com uma rica e diversificada trajetór
 
 Minha jornada no desenvolvimento de software é marcada pelo compromisso de transformar ideias inovadoras em aplicações práticas e centradas no usuário. Meus focos incluem:
 
-**Linguagens:** Tenho habilidades com JavaScript, TypeScript, Python e Java, o que me capacita a abordar uma ampla gama de projetos.
-**Desenvolvimento Web:** Tenho experiência em criar aplicações web responsivas e intuitivas usando Angular e Spring.
-**Engenharia de Software:** Meus estudos de graduação e pós-graduação aprofundaram minha compreensão de arquitetura de software, padrões de design e melhores práticas da indústria.
+- **Linguagens:** Tenho habilidades com JavaScript, TypeScript, Python e Java, o que me capacita a abordar uma ampla gama de projetos.
+- **Desenvolvimento Web:** Tenho experiência em criar aplicações web responsivas e intuitivas usando Angular e Spring.
+- **Engenharia de Software:** Meus estudos de graduação e pós-graduação aprofundaram minha compreensão de arquitetura de software, padrões de design e melhores práticas da indústria.
 
 ## 🏢 Experiência no setor financeiro
 
 Com mais de uma década de experiência no setor financeiro, adquiri insights inestimáveis sobre operações financeiras, relações com clientes e comunicação eficaz:
 
-**Domínio Financeiro:** Meu tempo no setor bancário cultivou um entendimento profundo dos processos financeiros, o que amplamente informa minha abordagem para criar soluções de software adaptadas às necessidades de negócios.
-**Design Centrado no Usuário:** Meu compromisso em fornecer experiências de usuário perfeitas é reforçado pelas interações com clientes e consumidores nos setores bancário e de cobrança de dívidas.
-**Pensamento Analítico:** Minha ampla experiência bancária aprimorou minhas habilidades analíticas e de resolução de problemas, que aplico a desafios de codificação e gestão de projetos.
+- **Domínio Financeiro:** Meu tempo no setor bancário cultivou um entendimento profundo dos processos financeiros, o que amplamente informa minha abordagem para criar soluções de software adaptadas às necessidades de negócios.
+- **Design Centrado no Usuário:** Meu compromisso em fornecer experiências de usuário perfeitas é reforçado pelas interações com clientes e consumidores nos setores bancário e de cobrança de dívidas.
+- **Pensamento Analítico:** Minha ampla experiência bancária aprimorou minhas habilidades analíticas e de resolução de problemas, que aplico a desafios de codificação e gestão de projetos.
 
 ## 📚 Jornada Acadêmica e Profissional
 
 Minha trajetória é uma mistura dinâmica de educação formal e experiência do mundo real:
 
-**Engenharia Têxtil:** Minha formação em Engenharia Têxtil alimenta minha habilidade criativa de solucionar problemas, atenção aos detalhes e abordagem inovadora de design.
-**Sistemas de Informação:** Atualmente, estou cursando uma graduação em Sistemas de Informação, encurtando a distância entre tecnologia e demandas empresariais.
-**Engenharia de Software:** Ao mesmo tempo, estou cursando uma pós-graduação em Engenharia de Software, aprofundando minha capacidade de arquitetar soluções de software robustas e escaláveis.
+- **Engenharia Têxtil:** Minha formação em Engenharia Têxtil alimenta minha habilidade criativa de solucionar problemas, atenção aos detalhes e abordagem inovadora de design.
+- **Sistemas de Informação:** Atualmente, estou cursando uma graduação em Sistemas de Informação, encurtando a distância entre tecnologia e demandas empresariais.
+- **Engenharia de Software:** Ao mesmo tempo, estou cursando uma pós-graduação em Engenharia de Software, aprofundando minha capacidade de arquitetar soluções de software robustas e escaláveis.
 
 ## 🌱 Filosofia Pessoal
 
