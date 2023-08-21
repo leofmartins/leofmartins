@@ -1,3 +1,47 @@
+## Versão em Português <a name="versao-em-portugues"></a>
+
+# Olá, pessoal! 👋 Meu nome é Leonardo (Leo) Martins
+
+🇺🇸 [English Version](#english-version) | 🇧🇷 [Versão em Português](#versao-em-portugues)
+
+Sou um desenvolvedor de software dedicado com uma rica e diversificada trajetória que abrange múltiplas indústrias. Tendo passado mais de 11 anos no setor bancário e atualmente trabalhando em uma empresa de cobrança de dívidas, minha jornada me equipou com uma combinação única de habilidades e perspectivas que alimentam minha paixão pelo desenvolvimento de software.
+
+## 🧑‍💻 Desenvolvimento de Software
+
+Minha jornada no desenvolvimento de software foi marcada pelo compromisso de transformar ideias inovadoras em aplicações práticas e centradas no usuário. Meus focos incluem:
+
+**Linguagens:** Sou habilidoso em [lista de linguagens de programação com as quais você está familiarizado], o que me capacita a abordar uma ampla gama de projetos.
+**Desenvolvimento Web:** Tenho experiência em criar aplicações web responsivas e intuitivas usando [mencionar tecnologias relevantes, frameworks e ferramentas].
+**Engenharia de Software:** Meus estudos de pós-graduação aprofundaram minha compreensão de arquitetura de software, padrões de design e melhores práticas da indústria.
+
+## 🏢 Experiência no setor financeiro
+
+Com mais de uma década de experiência no setor bancário e minha posição atual em uma empresa de cobrança de dívidas, adquiri insights inestimáveis sobre operações financeiras, relações com clientes e comunicação eficaz:
+
+**Domínio Financeiro:** Meu tempo no setor bancário cultivou um entendimento profundo dos processos financeiros, o que amplamente informa minha abordagem para criar soluções de software adaptadas às necessidades de negócios.
+**Design Centrado no Usuário:** Meu compromisso em fornecer experiências de usuário perfeitas é reforçado pelas interações com clientes e consumidores nos setores bancário e de cobrança de dívidas.
+**Pensamento Analítico:** Minha ampla experiência bancária aprimorou minhas habilidades analíticas e de resolução de problemas, que aplico a desafios de codificação e gestão de projetos.
+
+## 📚 Jornada Acadêmica e Profissional
+
+Minha trajetória é uma mistura dinâmica de educação formal e experiência do mundo real:
+
+**Engenharia Têxtil:** Minha formação em Engenharia Têxtil alimenta minha habilidade criativa de solucionar problemas, atenção aos detalhes e abordagem inovadora de design.
+**Sistemas de Informação:** Atualmente, estou cursando uma graduação em Sistemas de Informação, encurtando a distância entre tecnologia e demandas empresariais.
+Engenharia de Software: Ao mesmo tempo, estou cursando uma pós-graduação em Engenharia de Software, aprofundando minha capacidade de arquitetar soluções de software robustas e escaláveis.
+
+## 🌱 Filosofia Pessoal
+
+Acredito firmemente que a aprendizagem contínua é a base para se manter relevante no cenário tecnológico em rápida evolução. Encaro cada projeto como uma oportunidade para refinar minhas habilidades, aprender com colegas e contribuir positivamente para a comunidade de desenvolvimento de software.
+
+## 📫 Vamos Conectar
+
+Estou sempre entusiasmado para colaborar e me conectar com outros profissionais. Não hesite em entrar em contato comigo por meio [e-mail](mailto:leonardo.f.martins@icloud.com) ou pelo [meu perfil pessoa no Linkedin)](https://www.linkedin.com/in/leonardofmartins/).
+
+Aguardando com expectativa a conexão com você e explorar novos horizontes juntos!
+
+
+## English Version <a name="english-version"></a>
 # Hi, there! 👋 I'm Leonardo (Leo) Martins
 
 I'm a dedicated software developer with a rich and diverse background that spans multiple industries. Having spent over 11 years in the banking sector and currently working in a debt collection company, my journey has equipped me with a unique blend of skills and perspectives that fuel my passion for software development.
