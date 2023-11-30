@@ -2,7 +2,7 @@
 
 ## Versão em Português <a name="versao-em-portugues"></a>
 
-# Olá, mundo! 👋 Meu nome é Leonardo (Leo) Martins
+# Olá, mundo! Meu nome é Leonardo (Leo) Martins
 
 Sou um desenvolvedor de software com uma rica e diversificada trajetória que abrange múltiplos setores.
 
