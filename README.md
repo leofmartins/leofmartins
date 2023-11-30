@@ -6,7 +6,7 @@
 
 Sou um desenvolvedor de software com uma rica e diversificada trajetória que abrange múltiplos setores.
 
-## 🧑‍💻 Desenvolvimento de Software
+## Desenvolvimento de Software
 
 Minhas skills:
 
